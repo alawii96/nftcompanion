@@ -1,4 +1,4 @@
-# new_nftalbum
+# NFTCompanion
 
 A new Flutter project.
 
